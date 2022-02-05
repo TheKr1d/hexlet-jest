@@ -11,5 +11,13 @@
   "license": "ISC",
   "devDependencies": {
     "jest": "^27.5.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheKr1d/hexlet-jest.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TheKr1d/hexlet-jest/issues"
+  },
+  "homepage": "https://github.com/TheKr1d/hexlet-jest#readme"
 }
